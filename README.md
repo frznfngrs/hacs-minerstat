@@ -1,4 +1,4 @@
-# hacs-minerstat
+# hacs-minerstat-extended
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
 ![Validate](https://github.com/gilsonmandalogo/hacs-minerstat/workflows/Validate/badge.svg)
@@ -24,6 +24,7 @@ sensor:
 |`rig_name`|string|**Required**||The name that you defined for your rig at Minerstat|
 |`name`|string|Optional|`Minerstat`|Custom name for the sensor|
 
+## Forked from original project by gilson
 ## Support this project
 
 **Buy me a ~~coffee~~ beer 🍺**: https://www.buymeacoffee.com/gilson

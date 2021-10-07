@@ -1,9 +1,5 @@
 # hacs-minerstat-extended
 
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
-![Validate](https://github.com/gilsonmandalogo/hacs-minerstat/workflows/Validate/badge.svg)
-[![buy_me_a_coffee_badge](https://img.shields.io/badge/Buy%20me%20a%20coffee-donate-yellow.svg)](https://www.buymeacoffee.com/gilson)
-
 A integration with [Minerstart](https://minerstat.com/) to create a sensor from your rig's hashrate.
 
 ## Usage
@@ -25,12 +21,8 @@ sensor:
 |`name`|string|Optional|`Minerstat`|Custom name for the sensor|
 
 ## Forked from original project by gilson
-## Support this project
+His original work is here.
+https://github.com/gilsonmandalogo/hacs-minerstat
 
-**Buy me a ~~coffee~~ beer 🍺**: https://www.buymeacoffee.com/gilson
+All I have done is try to add additional information gathered from the API
 
-**BTC**: 33TwXHzMTpSNMJZ4JcwExLExsF3BshBUPE
-
-**ETH**: 0xa772c6bab9d175256ff635843c461d3f65a7236b
-
-**LTC**: M9adpiNQXsbEf7j5ZVnuDCGNoXT7oMW3vd
